@@ -17,7 +17,9 @@ biomaRt
 pheatmap  
 data.table  
 tidyr  
-plyr  
+plyr
+preprocessCore
+ggplot2  
 dplyr  
 mclust
 RColorBrewer
