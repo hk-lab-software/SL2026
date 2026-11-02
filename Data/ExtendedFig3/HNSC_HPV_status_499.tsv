@@ -1,0 +1,500 @@
+case_id	HPV_status	HPV_genotype	HPV_EM_reads	cohort_subset	massarray_discordant
+TCGA-4P-AA8J	Negative		0	additional	
+TCGA-BA-4074	Negative		0	consortium	
+TCGA-BA-4075	Negative		0	additional	
+TCGA-BA-4076	Negative		0	consortium	
+TCGA-BA-4077	Positive	HPV16	16685	consortium	
+TCGA-BA-4078	Negative		0	consortium	
+TCGA-BA-5151	Negative		0	consortium	
+TCGA-BA-5152	Negative		0	consortium	HPV16
+TCGA-BA-5153	Positive	HPV16	17575	consortium	
+TCGA-BA-5555	Negative		0	consortium	
+TCGA-BA-5556	Negative		0	consortium	
+TCGA-BA-5557	Negative		0	consortium	
+TCGA-BA-5558	Negative		0	consortium	
+TCGA-BA-5559	Positive	HPV16	17013	consortium	
+TCGA-BA-6868	Negative		0	consortium	
+TCGA-BA-6869	Negative		0	consortium	
+TCGA-BA-6870	Negative		0	consortium	
+TCGA-BA-6871	Negative		0	consortium	
+TCGA-BA-6872	Negative		0	consortium	
+TCGA-BA-6873	Negative		0	consortium	
+TCGA-BA-7269	Negative		0	consortium	
+TCGA-BA-A4IF	Negative		0	additional	
+TCGA-BA-A4IG	Positive	HPV16	28053	additional	
+TCGA-BA-A4IH	Positive	HPV16	44777	additional	
+TCGA-BA-A4II	Negative		0	additional	
+TCGA-BA-A6D8	Negative		0	additional	
+TCGA-BA-A6DA	Negative		0	additional	
+TCGA-BA-A6DB	Negative		0	additional	
+TCGA-BA-A6DD	Negative		0	additional	
+TCGA-BA-A6DE	Negative		0	additional	
+TCGA-BA-A6DG	Negative		0	additional	
+TCGA-BA-A6DI	Negative		0	additional	
+TCGA-BA-A6DJ	Negative		0	additional	
+TCGA-BA-A6DL	Negative		0	additional	
+TCGA-BA-A8YP	Negative		0	additional	
+TCGA-BB-4217	Negative		0	consortium	
+TCGA-BB-4223	Positive	HPV16	12379	consortium	
+TCGA-BB-4224	Negative		0	consortium	HPV16
+TCGA-BB-4225	Positive	HPV33	81201	consortium	
+TCGA-BB-4227	Negative		0	additional	
+TCGA-BB-4228	Positive	HPV16	22894	consortium	
+TCGA-BB-8596	Negative		0	additional	
+TCGA-BB-8601	Negative		0	additional	
+TCGA-BB-A5HU	Negative		0	additional	
+TCGA-BB-A5HY	Negative		0	additional	
+TCGA-BB-A5HZ	Negative		0	additional	
+TCGA-BB-A6UM	Positive	HPV16	5392	additional	
+TCGA-BB-A6UO	Negative		0	additional	
+TCGA-C9-A47Z	Negative		0	additional	
+TCGA-C9-A480	Negative		0	additional	
+TCGA-CN-4722	Negative		0	additional	
+TCGA-CN-4723	Negative		0	consortium	
+TCGA-CN-4725	Negative		0	consortium	
+TCGA-CN-4726	Negative		0	consortium	
+TCGA-CN-4727	Negative		0	consortium	
+TCGA-CN-4728	Negative		0	consortium	
+TCGA-CN-4729	Negative		0	consortium	
+TCGA-CN-4730	Negative		0	consortium	
+TCGA-CN-4731	Negative		0	consortium	
+TCGA-CN-4733	Negative		0	consortium	
+TCGA-CN-4734	Negative		0	additional	
+TCGA-CN-4735	Negative		0	consortium	
+TCGA-CN-4736	Negative		0	consortium	
+TCGA-CN-4737	Negative		0	consortium	
+TCGA-CN-4738	Negative		0	consortium	
+TCGA-CN-4739	Negative		0	consortium	
+TCGA-CN-4740	Negative		0	consortium	
+TCGA-CN-4741	Positive	HPV16	30438	consortium	
+TCGA-CN-4742	Negative		0	consortium	
+TCGA-CN-5355	Negative		0	consortium	
+TCGA-CN-5356	Negative		0	consortium	
+TCGA-CN-5358	Negative		0	consortium	
+TCGA-CN-5359	Negative		0	consortium	
+TCGA-CN-5360	Negative		0	consortium	
+TCGA-CN-5361	Negative		0	additional	
+TCGA-CN-5363	Negative		0	consortium	
+TCGA-CN-5364	Negative		0	consortium	HPV16
+TCGA-CN-5365	Negative		0	consortium	HPV16
+TCGA-CN-5366	Negative		0	consortium	HPV16
+TCGA-CN-5367	Negative		0	consortium	
+TCGA-CN-5369	Negative		0	consortium	
+TCGA-CN-5370	Negative		0	consortium	
+TCGA-CN-5373	Negative		0	consortium	
+TCGA-CN-5374	Positive	HPV16	8161	consortium	
+TCGA-CN-6010	Negative		0	consortium	
+TCGA-CN-6011	Negative		0	consortium	
+TCGA-CN-6012	Negative		0	consortium	
+TCGA-CN-6013	Negative		0	consortium	
+TCGA-CN-6016	Negative		0	consortium	
+TCGA-CN-6017	Negative		0	consortium	
+TCGA-CN-6018	Negative		0	consortium	
+TCGA-CN-6019	Negative		0	consortium	
+TCGA-CN-6020	Negative		0	consortium	
+TCGA-CN-6021	Negative		0	consortium	
+TCGA-CN-6022	Negative		0	consortium	
+TCGA-CN-6023	Negative		0	consortium	
+TCGA-CN-6024	Negative		0	consortium	
+TCGA-CN-6988	Negative		0	consortium	
+TCGA-CN-6989	Negative		0	consortium	
+TCGA-CN-6992	Negative		0	consortium	
+TCGA-CN-6994	Negative		0	consortium	
+TCGA-CN-6995	Negative		0	consortium	
+TCGA-CN-6996	Negative		0	additional	
+TCGA-CN-6997	Negative		0	consortium	
+TCGA-CN-6998	Negative		0	consortium	
+TCGA-CN-A497	Negative		0	additional	
+TCGA-CN-A498	Negative		0	additional	
+TCGA-CN-A499	Positive	HPV16	48568	additional	
+TCGA-CN-A49A	Negative		0	additional	
+TCGA-CN-A49B	Negative		0	additional	
+TCGA-CN-A49C	Positive	HPV16	7979	additional	
+TCGA-CN-A63T	Negative		0	additional	
+TCGA-CN-A63U	Negative		0	additional	
+TCGA-CN-A63V	Negative		0	additional	
+TCGA-CN-A63W	Negative		0	additional	
+TCGA-CN-A641	Negative		0	additional	
+TCGA-CN-A642	Negative		0	additional	
+TCGA-CN-A6UY	Positive	HPV16	10873	additional	
+TCGA-CN-A6V3	Negative		0	additional	
+TCGA-CN-A6V6	Positive	HPV16	10123	additional	
+TCGA-CN-A6V7	Positive	HPV16	8526	additional	
+TCGA-CQ-5323	Positive	HPV16	4013	consortium	
+TCGA-CQ-5324	Negative		0	consortium	
+TCGA-CQ-5325	Negative		0	consortium	
+TCGA-CQ-5326	Negative		0	consortium	
+TCGA-CQ-5327	Negative		0	additional	
+TCGA-CQ-5329	Negative		0	consortium	
+TCGA-CQ-5330	Negative		0	consortium	
+TCGA-CQ-5331	Negative		0	consortium	
+TCGA-CQ-5332	Negative		0	consortium	
+TCGA-CQ-5333	Negative		0	additional	
+TCGA-CQ-5334	Negative		0	consortium	
+TCGA-CQ-6218	Negative		0	consortium	
+TCGA-CQ-6219	Negative		0	additional	
+TCGA-CQ-6220	Negative		0	consortium	
+TCGA-CQ-6221	Negative		0	consortium	
+TCGA-CQ-6222	Negative		0	additional	
+TCGA-CQ-6223	Negative		0	consortium	
+TCGA-CQ-6224	Negative		0	consortium	
+TCGA-CQ-6225	Negative		0	consortium	
+TCGA-CQ-6227	Negative		0	consortium	
+TCGA-CQ-6228	Negative		0	consortium	
+TCGA-CQ-6229	Negative		0	consortium	
+TCGA-CQ-7063	Negative		0	additional	
+TCGA-CQ-7065	Negative		0	consortium	
+TCGA-CQ-7068	Negative		0	consortium	
+TCGA-CQ-7069	Negative		0	additional	
+TCGA-CQ-7071	Negative		0	additional	
+TCGA-CQ-7072	Negative		0	additional	
+TCGA-CQ-A4C6	Negative		0	additional	
+TCGA-CQ-A4C7	Negative		0	additional	
+TCGA-CQ-A4C9	Negative		0	additional	
+TCGA-CQ-A4CA	Negative		0	additional	
+TCGA-CQ-A4CB	Negative		0	additional	
+TCGA-CQ-A4CD	Negative		0	additional	
+TCGA-CQ-A4CE	Negative		0	additional	
+TCGA-CQ-A4CG	Negative		0	additional	
+TCGA-CQ-A4CH	Negative		0	additional	
+TCGA-CQ-A4CI	Negative		0	additional	
+TCGA-CR-5243	Positive	HPV16	24860	consortium	
+TCGA-CR-5247	Negative		0	consortium	
+TCGA-CR-5248	Positive	HPV16	10633	consortium	
+TCGA-CR-5249	Positive	HPV16	20803	consortium	
+TCGA-CR-5250	Positive	HPV16	17796	consortium	
+TCGA-CR-6467	Positive	HPV33	56289	consortium	
+TCGA-CR-6470	Positive	HPV16	12639	consortium	
+TCGA-CR-6471	Positive	HPV33	134533	consortium	
+TCGA-CR-6472	Positive	HPV16	10630	consortium	
+TCGA-CR-6473	Positive	HPV16	5352	consortium	
+TCGA-CR-6474	Negative		0	consortium	HPV16
+TCGA-CR-6477	Negative		0	consortium	
+TCGA-CR-6478	Negative		0	consortium	
+TCGA-CR-6480	Positive	HPV16	21653	additional	
+TCGA-CR-6481	Positive	HPV16	11483	consortium	
+TCGA-CR-6482	Positive	HPV16	10859	consortium	
+TCGA-CR-6484	Negative		0	consortium	HPV16
+TCGA-CR-6487	Positive	HPV16	10134	consortium	
+TCGA-CR-6488	Negative		0	consortium	
+TCGA-CR-6491	Negative		0	consortium	HPV16
+TCGA-CR-6492	Negative		0	consortium	
+TCGA-CR-6493	Negative		0	consortium	HPV16
+TCGA-CR-7364	Negative		0	consortium	
+TCGA-CR-7365	Negative		0	consortium	
+TCGA-CR-7367	Negative		0	consortium	
+TCGA-CR-7368	Positive	HPV16	39717	consortium	
+TCGA-CR-7369	Positive	HPV16	11135	consortium	
+TCGA-CR-7370	Negative		0	consortium	
+TCGA-CR-7371	Negative		0	consortium	
+TCGA-CR-7372	Negative		0	consortium	
+TCGA-CR-7373	Negative		0	consortium	
+TCGA-CR-7374	Negative		0	consortium	
+TCGA-CR-7376	Negative		0	consortium	
+TCGA-CR-7377	Negative		0	consortium	
+TCGA-CR-7379	Negative		0	consortium	HPV18
+TCGA-CR-7380	Negative		0	consortium	
+TCGA-CR-7382	Negative		0	consortium	
+TCGA-CR-7383	Negative		0	consortium	
+TCGA-CR-7385	Positive	HPV16	19719	consortium	
+TCGA-CR-7386	Negative		0	consortium	
+TCGA-CR-7388	Negative		0	consortium	
+TCGA-CR-7389	Negative		0	consortium	
+TCGA-CR-7390	Negative		0	consortium	
+TCGA-CR-7391	Negative		0	consortium	
+TCGA-CR-7392	Negative		0	consortium	
+TCGA-CR-7393	Negative		0	consortium	
+TCGA-CR-7394	Negative		0	consortium	
+TCGA-CR-7395	Negative		0	consortium	
+TCGA-CR-7397	Negative		0	consortium	
+TCGA-CR-7398	Negative		0	consortium	
+TCGA-CR-7399	Negative		0	consortium	
+TCGA-CR-7401	Negative		0	consortium	HPV18
+TCGA-CR-7402	Negative		0	consortium	HPV18
+TCGA-CR-7404	Positive	HPV16	30984	consortium	
+TCGA-CV-5430	Negative		0	consortium	
+TCGA-CV-5431	Negative		0	consortium	
+TCGA-CV-5432	Negative		0	consortium	
+TCGA-CV-5434	Negative		0	consortium	
+TCGA-CV-5435	Negative		0	consortium	
+TCGA-CV-5436	Negative		0	consortium	
+TCGA-CV-5439	Negative		0	consortium	
+TCGA-CV-5440	Negative		0	consortium	
+TCGA-CV-5441	Negative		0	consortium	
+TCGA-CV-5442	Positive	HPV16	4186	consortium	
+TCGA-CV-5443	Positive	HPV16	11828	consortium	
+TCGA-CV-5444	Negative		0	consortium	
+TCGA-CV-5966	Negative		0	consortium	
+TCGA-CV-5970	Negative		0	consortium	
+TCGA-CV-5971	Positive	HPV16	3575	consortium	
+TCGA-CV-5973	Negative		0	consortium	
+TCGA-CV-5976	Negative		0	consortium	
+TCGA-CV-5977	Negative		0	consortium	
+TCGA-CV-5978	Negative		0	consortium	
+TCGA-CV-5979	Negative		0	consortium	
+TCGA-CV-6003	Negative		0	consortium	
+TCGA-CV-6433	Positive	HPV16	17492	consortium	
+TCGA-CV-6436	Negative		0	consortium	
+TCGA-CV-6441	Negative		0	consortium	
+TCGA-CV-6933	Negative		0	consortium	
+TCGA-CV-6934	Negative		0	consortium	
+TCGA-CV-6935	Negative		0	consortium	
+TCGA-CV-6936	Negative		0	consortium	
+TCGA-CV-6937	Negative		0	consortium	
+TCGA-CV-6938	Negative		0	consortium	
+TCGA-CV-6939	Positive	HPV33	9480	consortium	
+TCGA-CV-6940	Negative		0	consortium	
+TCGA-CV-6941	Negative		0	consortium	HPV33
+TCGA-CV-6942	Negative		0	consortium	
+TCGA-CV-6943	Negative		0	consortium	
+TCGA-CV-6945	Negative		0	consortium	
+TCGA-CV-6948	Negative		0	consortium	
+TCGA-CV-6950	Negative		0	consortium	
+TCGA-CV-6951	Negative		0	consortium	
+TCGA-CV-6952	Negative		0	consortium	
+TCGA-CV-6953	Negative		0	consortium	
+TCGA-CV-6954	Negative		0	consortium	
+TCGA-CV-6955	Negative		0	consortium	
+TCGA-CV-6959	Negative		0	consortium	
+TCGA-CV-6960	Negative		0	consortium	
+TCGA-CV-6961	Positive	HPV16	23968	consortium	
+TCGA-CV-6962	Negative		0	consortium	
+TCGA-CV-7089	Negative		0	consortium	
+TCGA-CV-7090	Negative		0	consortium	
+TCGA-CV-7091	Negative		0	consortium	
+TCGA-CV-7095	Negative		0	consortium	
+TCGA-CV-7097	Negative		0	consortium	HPV33
+TCGA-CV-7099	Negative		0	consortium	
+TCGA-CV-7100	Positive	HPV33	17244	consortium	
+TCGA-CV-7101	Negative		0	consortium	HPV33
+TCGA-CV-7102	Negative		0	consortium	HPV33
+TCGA-CV-7103	Negative		0	consortium	HPV33
+TCGA-CV-7104	Negative		0	consortium	HPV33
+TCGA-CV-7177	Negative		0	consortium	
+TCGA-CV-7178	Negative		0	consortium	
+TCGA-CV-7180	Negative		0	consortium	
+TCGA-CV-7183	Negative		0	consortium	
+TCGA-CV-7235	Negative		0	consortium	
+TCGA-CV-7236	Negative		0	consortium	
+TCGA-CV-7238	Negative		0	consortium	
+TCGA-CV-7242	Negative		0	consortium	
+TCGA-CV-7245	Negative		0	consortium	
+TCGA-CV-7247	Negative		0	consortium	
+TCGA-CV-7248	Negative		0	consortium	
+TCGA-CV-7250	Negative		0	consortium	
+TCGA-CV-7252	Negative		0	consortium	
+TCGA-CV-7253	Negative		0	consortium	
+TCGA-CV-7254	Negative		0	consortium	
+TCGA-CV-7255	Negative		0	consortium	
+TCGA-CV-7261	Negative		0	consortium	
+TCGA-CV-7263	Negative		0	consortium	
+TCGA-CV-7406	Positive	HPV16	2957	consortium	
+TCGA-CV-7407	Negative		0	consortium	
+TCGA-CV-7410	Negative		0	consortium	
+TCGA-CV-7411	Negative		0	consortium	
+TCGA-CV-7413	Negative		0	consortium	
+TCGA-CV-7414	Negative		0	consortium	
+TCGA-CV-7415	Negative		0	consortium	
+TCGA-CV-7416	Negative		0	consortium	
+TCGA-CV-7418	Negative		0	consortium	
+TCGA-CV-7421	Negative		0	consortium	
+TCGA-CV-7422	Negative		0	consortium	
+TCGA-CV-7423	Negative		0	consortium	
+TCGA-CV-7424	Negative		0	consortium	
+TCGA-CV-7425	Negative		0	additional	
+TCGA-CV-7427	Negative		0	consortium	
+TCGA-CV-7428	Negative		0	additional	
+TCGA-CV-7429	Negative		0	consortium	
+TCGA-CV-7430	Negative		0	consortium	
+TCGA-CV-7432	Negative		0	consortium	
+TCGA-CV-7433	Negative		0	consortium	
+TCGA-CV-7434	Negative		0	consortium	
+TCGA-CV-7435	Negative		0	consortium	
+TCGA-CV-7437	Negative		0	consortium	
+TCGA-CV-7438	Negative		0	consortium	
+TCGA-CV-7440	Negative		0	consortium	
+TCGA-CV-7446	Negative		0	additional	
+TCGA-CV-7568	Negative		0	additional	
+TCGA-CV-A45O	Negative		0	additional	
+TCGA-CV-A45P	Negative		0	additional	
+TCGA-CV-A45Q	Negative		0	additional	
+TCGA-CV-A45R	Negative		0	additional	
+TCGA-CV-A45T	Negative		0	additional	
+TCGA-CV-A45U	Negative		0	additional	
+TCGA-CV-A45V	Negative		0	additional	
+TCGA-CV-A45W	Negative		0	additional	
+TCGA-CV-A45X	Negative		0	additional	
+TCGA-CV-A45Y	Negative		0	additional	
+TCGA-CV-A45Z	Negative		0	additional	
+TCGA-CV-A460	Negative		0	additional	
+TCGA-CV-A461	Negative		0	additional	
+TCGA-CV-A463	Negative		0	additional	
+TCGA-CV-A464	Negative		0	additional	
+TCGA-CV-A465	Negative		0	additional	
+TCGA-CV-A468	Negative		0	additional	
+TCGA-CV-A6JD	Negative		0	additional	
+TCGA-CV-A6JE	Negative		0	additional	
+TCGA-CV-A6JM	Negative		0	additional	
+TCGA-CV-A6JN	Negative		0	additional	
+TCGA-CV-A6JO	Negative		0	additional	
+TCGA-CV-A6JT	Negative		0	additional	
+TCGA-CV-A6JU	Negative		0	additional	
+TCGA-CV-A6JY	Negative		0	additional	
+TCGA-CV-A6JZ	Negative		0	additional	
+TCGA-CV-A6K0	Negative		0	additional	
+TCGA-CV-A6K1	Negative		0	additional	
+TCGA-CV-A6K2	Negative		0	additional	
+TCGA-CX-7082	Negative		0	consortium	
+TCGA-CX-7085	Negative		0	consortium	
+TCGA-CX-7086	Negative		0	consortium	
+TCGA-CX-7219	Negative		0	consortium	
+TCGA-CX-A4AQ	Negative		0	additional	
+TCGA-D6-6515	Negative		0	consortium	
+TCGA-D6-6516	Negative		0	consortium	
+TCGA-D6-6517	Negative		0	consortium	
+TCGA-D6-6823	Negative		0	consortium	
+TCGA-D6-6824	Negative		0	consortium	
+TCGA-D6-6825	Negative		0	consortium	
+TCGA-D6-6826	Negative		0	consortium	
+TCGA-D6-6827	Negative		0	additional	
+TCGA-D6-8568	Negative		0	additional	
+TCGA-D6-8569	Negative		0	additional	
+TCGA-D6-A4Z9	Negative		0	additional	
+TCGA-D6-A4ZB	Negative		0	additional	
+TCGA-D6-A6EK	Negative		0	additional	
+TCGA-D6-A6EM	Negative		0	additional	
+TCGA-D6-A6EN	Negative		0	additional	
+TCGA-D6-A6EO	Negative		0	additional	
+TCGA-D6-A6EP	Negative		0	additional	
+TCGA-D6-A6EQ	Negative		0	additional	
+TCGA-D6-A6ES	Negative		0	additional	
+TCGA-D6-A74Q	Negative		0	additional	
+TCGA-DQ-5624	Negative		0	consortium	
+TCGA-DQ-5625	Negative		0	consortium	
+TCGA-DQ-5629	Negative		0	consortium	HPV16
+TCGA-DQ-5630	Negative		0	consortium	
+TCGA-DQ-5631	Negative		0	consortium	HPV16
+TCGA-DQ-7588	Negative		0	consortium	
+TCGA-DQ-7591	Positive	HPV35	36207	consortium	
+TCGA-DQ-7592	Negative		0	consortium	
+TCGA-F7-7848	Negative		0	consortium	
+TCGA-F7-8298	Negative		0	additional	
+TCGA-F7-8489	Negative		0	additional	
+TCGA-F7-A50G	Negative		0	additional	
+TCGA-F7-A50I	Negative		0	additional	
+TCGA-F7-A50J	Negative		0	additional	
+TCGA-F7-A61S	Negative		0	additional	
+TCGA-F7-A61V	Negative		0	additional	
+TCGA-F7-A61W	Negative		0	additional	
+TCGA-F7-A620	Negative		0	additional	
+TCGA-F7-A622	Negative		0	additional	
+TCGA-F7-A623	Negative		0	additional	
+TCGA-F7-A624	Negative		0	additional	
+TCGA-H7-7774	Negative		0	consortium	
+TCGA-H7-8501	Negative		0	additional	
+TCGA-H7-8502	Negative		0	additional	
+TCGA-H7-A6C4	Negative		0	additional	
+TCGA-H7-A76A	Positive	HPV16	10969	additional	
+TCGA-HD-7229	Negative		0	consortium	
+TCGA-HD-7753	Negative		0	consortium	
+TCGA-HD-7754	Positive	HPV16	16179	consortium	
+TCGA-HD-7831	Negative		0	consortium	HPV16
+TCGA-HD-7832	Positive	HPV33	22143	consortium	
+TCGA-HD-8224	Negative		0	additional	
+TCGA-HD-8314	Positive	HPV35	4225	additional	
+TCGA-HD-8634	Negative		0	additional	
+TCGA-HD-8635	Negative		0	additional	
+TCGA-HD-A4C1	Negative		0	additional	
+TCGA-HD-A633	Negative		0	additional	
+TCGA-HD-A634	Positive	HPV16	59405	additional	
+TCGA-HD-A6HZ	Negative		0	additional	
+TCGA-HD-A6I0	Negative		0	additional	
+TCGA-HL-7533	Positive	HPV16	8899	additional	
+TCGA-IQ-7630	Negative		0	consortium	
+TCGA-IQ-7631	Negative		0	consortium	
+TCGA-IQ-7632	Negative		0	consortium	
+TCGA-IQ-A61E	Negative		0	additional	
+TCGA-IQ-A61G	Negative		0	additional	
+TCGA-IQ-A61H	Negative		0	additional	
+TCGA-IQ-A61I	Positive	HPV35	39569	additional	
+TCGA-IQ-A61J	Negative		0	additional	
+TCGA-IQ-A61O	Negative		0	additional	
+TCGA-IQ-A6SG	Negative		0	additional	
+TCGA-IQ-A6SH	Negative		0	additional	
+TCGA-KU-A66S	Negative		0	additional	
+TCGA-KU-A66T	Negative		0	additional	
+TCGA-KU-A6H7	Positive	HPV16	10251	additional	
+TCGA-KU-A6H8	Negative		0	additional	
+TCGA-MT-A51W	Negative		0	additional	
+TCGA-MT-A51X	Negative		0	additional	
+TCGA-MT-A67A	Negative		0	additional	
+TCGA-MT-A67D	Negative		0	additional	
+TCGA-MT-A67F	Negative		0	additional	
+TCGA-MT-A7BN	Negative		0	additional	
+TCGA-MZ-A5BI	Positive	HPV33	14545	additional	
+TCGA-MZ-A6I9	Positive	HPV16	30638	additional	
+TCGA-MZ-A7D7	Negative		0	additional	
+TCGA-P3-A5Q5	Positive	HPV16	8352	additional	
+TCGA-P3-A5Q6	Negative		0	additional	
+TCGA-P3-A5QA	Negative		0	additional	
+TCGA-P3-A5QE	Positive	HPV16	38401	additional	
+TCGA-P3-A5QF	Positive	HPV16	14106	additional	
+TCGA-P3-A6SW	Positive	HPV16	2372	additional	
+TCGA-P3-A6SX	Negative		0	additional	
+TCGA-P3-A6T0	Negative		0	additional	
+TCGA-P3-A6T2	Negative		0	additional	
+TCGA-P3-A6T3	Negative		0	additional	
+TCGA-P3-A6T4	Negative		0	additional	
+TCGA-P3-A6T5	Negative		0	additional	
+TCGA-P3-A6T6	Positive	HPV16	11039	additional	
+TCGA-P3-A6T7	Negative		0	additional	
+TCGA-P3-A6T8	Negative		0	additional	
+TCGA-QK-A64Z	Negative		0	additional	
+TCGA-QK-A652	Negative		0	additional	
+TCGA-QK-A6IF	Positive	HPV16	6562	additional	
+TCGA-QK-A6IG	Negative		0	additional	
+TCGA-QK-A6IH	Negative		0	additional	
+TCGA-QK-A6II	Negative		0	additional	
+TCGA-QK-A6IJ	Negative		0	additional	
+TCGA-QK-A6V9	Positive	HPV16	27485	additional	
+TCGA-QK-A6VB	Negative		0	additional	
+TCGA-QK-A6VC	Negative		0	additional	
+TCGA-QK-A8Z7	Negative		0	additional	
+TCGA-QK-A8Z8	Negative		0	additional	
+TCGA-QK-A8Z9	Negative		0	additional	
+TCGA-QK-A8ZA	Negative		0	additional	
+TCGA-QK-A8ZB	Negative		0	additional	
+TCGA-QK-AA3J	Negative		0	additional	
+TCGA-QK-AA3K	Negative		0	additional	
+TCGA-RS-A6TO	Negative		0	additional	
+TCGA-RS-A6TP	Positive	HPV16	21404	additional	
+TCGA-T2-A6WX	Negative		0	additional	
+TCGA-T2-A6WZ	Negative		0	additional	
+TCGA-T2-A6X0	Positive	HPV16	11114	additional	
+TCGA-T2-A6X2	Negative		0	additional	
+TCGA-T3-A92M	Negative		0	additional	
+TCGA-T3-A92N	Negative		0	additional	
+TCGA-TN-A7HI	Positive	HPV33	14267	additional	
+TCGA-TN-A7HJ	Negative		0	additional	
+TCGA-TN-A7HL	Positive	HPV16	7049	additional	
+TCGA-UF-A718	Negative		0	additional	
+TCGA-UF-A719	Negative		0	additional	
+TCGA-UF-A71A	Negative		0	additional	
+TCGA-UF-A71B	Negative		0	additional	
+TCGA-UF-A71D	Negative		0	additional	
+TCGA-UF-A71E	Negative		0	additional	
+TCGA-UF-A7J9	Negative		0	additional	
+TCGA-UF-A7JA	Negative		0	additional	
+TCGA-UF-A7JC	Negative		0	additional	
+TCGA-UF-A7JD	Negative		0	additional	
+TCGA-UF-A7JF	Negative		0	additional	
+TCGA-UF-A7JH	Negative		0	additional	
+TCGA-UF-A7JJ	Negative		0	additional	
+TCGA-UF-A7JK	Negative		0	additional	
+TCGA-UF-A7JO	Negative		0	additional	
+TCGA-UF-A7JS	Negative		0	additional	
+TCGA-UF-A7JT	Negative		0	additional	
+TCGA-UF-A7JV	Negative		0	additional	
+TCGA-UP-A6WW	Positive	HPV16	13182	additional	
+TCGA-WA-A7GZ	Negative		0	additional	
+TCGA-WA-A7H4	Negative		0	additional	
