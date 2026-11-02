@@ -17,6 +17,8 @@ The main analysis workflow is run in
 
 Additionally it requires the following R libraries.
 ```
+SummarizedExperiment
+TCGAbiolinks
 matrixStats  
 biomaRt  
 pheatmap  
