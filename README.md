@@ -2,8 +2,13 @@
 This repository provides R scripts to carry out the analyses presented in manuscript.
 
 ### Contents
-The `code` folder contains R scripts for each figure.
-Data required for each codes are deposited in each folder with figure names.
+The `Code` folder contains R scripts for each figure.
+
+`Data` required for each codes are deposited in each folder with figure names.
+
+Some large files (ex. gene expression) were too large to upload.
+
+Instructions to obtaining these data are written individually.
 
 ### Dependencies
 The main analysis workflow is run in
